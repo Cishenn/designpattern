@@ -1,6 +1,6 @@
 package com.behavioralpattern.visitorpattern;
 
-public class VisitorAlpha implements Visitor {
+public class ConcreteVisitor implements Visitor {
     @Override
     public void visit(Element element) {
 
