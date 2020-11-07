@@ -1,4 +1,4 @@
-package com.designpatterndemo.chainsofresponsibility;
+package com.behavioralpattern.chainsofresponsibility;
 
 public class DeputyPresident extends Handler {
     @Override

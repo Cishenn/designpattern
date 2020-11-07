@@ -1,4 +1,4 @@
-package com.designpatterndemo.proxypattern;
+package com.structuralpattern.proxypattern;
 
 public class AbroadSubject implements Subject {
     @Override

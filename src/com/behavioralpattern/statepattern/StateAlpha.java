@@ -1,4 +1,4 @@
-package com.designpatterndemo.statepattern;
+package com.behavioralpattern.statepattern;
 
 public class StateAlpha extends State {
     @Override

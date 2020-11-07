@@ -1,4 +1,4 @@
-package com.designpatterndemo.commandpattern;
+package com.behavioralpattern.commandpattern;
 
 public class ConcreteCommand implements Command {
     Receiver receiver;
