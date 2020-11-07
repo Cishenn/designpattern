@@ -1,4 +1,4 @@
-package com.designpatterndemo.facadepattern;
+package com.structuralpattern.facadepattern;
 
 public class Intricate {
     void method(){

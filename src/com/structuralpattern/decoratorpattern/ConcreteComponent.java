@@ -1,4 +1,4 @@
-package com.designpatterndemo.decoratorpattern;
+package com.structuralpattern.decoratorpattern;
 
 public class ConcreteComponent implements Component {
     @Override

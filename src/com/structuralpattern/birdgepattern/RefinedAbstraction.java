@@ -1,4 +1,4 @@
-package com.designpatterndemo.birdgepattern;
+package com.structuralpattern.birdgepattern;
 
 public class RefinedAbstraction extends Abstraction {
     RefinedAbstraction(ConcreteImplementor concreteImplementor) {

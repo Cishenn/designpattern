@@ -1,4 +1,4 @@
-package com.designpatterndemo.adapterpattern;
+package com.structuralpattern.adapterpattern;
 
 public class Adaptee {
     public void SpecificRequest(){

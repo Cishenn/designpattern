@@ -1,4 +1,4 @@
-package com.designpatterndemo.compositepattern;
+package com.structuralpattern.compositepattern;
 
 public class CompositePatternDemo {
     public static void main(String[] args){

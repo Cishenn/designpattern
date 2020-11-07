@@ -1,4 +1,4 @@
-package com.designpatterndemo.compositepattern;
+package com.structuralpattern.compositepattern;
 
 public interface Component {
     public void add(Component component);

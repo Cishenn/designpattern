@@ -1,4 +1,4 @@
-package com.designpatterndemo.decoratorpattern;
+package com.structuralpattern.decoratorpattern;
 
 import com.designpatterndemo.commandpattern.Command;
 

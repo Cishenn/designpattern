@@ -1,4 +1,4 @@
-package com.designpatterndemo.compositepattern;
+package com.structuralpattern.compositepattern;
 
 public class Leaf implements Component {
     private String name;
