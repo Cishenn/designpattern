@@ -1,4 +1,4 @@
-package com.designpatterndemo.abstractfactory;
+package com.creationalpattern.abstractfactory;
 
 //小米工厂
 public class MiFactory implements Factory{

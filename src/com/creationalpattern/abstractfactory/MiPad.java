@@ -1,4 +1,4 @@
-package com.designpatterndemo.abstractfactory;
+package com.creationalpattern.abstractfactory;
 
 // 小米平板
 public class MiPad implements Pad{

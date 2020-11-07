@@ -1,4 +1,4 @@
-package com.designpatterndemo.abstractfactory;
+package com.creationalpattern.abstractfactory;
 
 // 平板
 public interface Pad{

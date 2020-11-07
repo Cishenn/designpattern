@@ -1,4 +1,4 @@
-package com.designpatterndemo.abstractfactory;
+package com.creationalpattern.abstractfactory;
 
 // 抽象工厂
 public interface Factory{

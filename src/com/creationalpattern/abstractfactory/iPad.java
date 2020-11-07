@@ -1,4 +1,4 @@
-package com.designpatterndemo.abstractfactory;
+package com.creationalpattern.abstractfactory;
 
 // 苹果平板
 public class iPad implements Pad{
