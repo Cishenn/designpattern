@@ -8,6 +8,7 @@ public class Invoker {
     }
 
     public void call(){
+        System.out.println("Invoker::call()");
         command.execute();
     }
 }

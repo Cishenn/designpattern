@@ -7,7 +7,7 @@ public class ConcreteCommand implements Command {
     }
 
     public void execute() {
-        receiver.action();
         System.out.println("ConcreteCommand::execute()");
+        receiver.action();
     }
 }
