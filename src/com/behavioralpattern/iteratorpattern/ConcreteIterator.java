@@ -1,14 +1,12 @@
 package com.behavioralpattern.iteratorpattern;
 
-import com.creationalpattern.builderpattern.ConcreteBuilder;
-
 import java.util.ArrayList;
 import java.util.List;
 
-public class ConcreteInterator implements Interator {
+public class ConcreteIterator implements Iterator {
     List<Object> objectList=new ArrayList<Object>();
     protected int index=-1;
-    ConcreteInterator(List<Object> list){
+    ConcreteIterator(List<Object> list){
         objectList=list;
     }
     @Override

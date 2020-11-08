@@ -1,6 +1,6 @@
 package com.behavioralpattern.iteratorpattern;
 
-public interface Interator {
+public interface Iterator {
     public boolean hasNext();
     public Object next();
     public Object first();
