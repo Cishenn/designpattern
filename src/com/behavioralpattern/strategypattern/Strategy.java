@@ -1,4 +1,4 @@
-package com.designpatterndemo.strategypattern;
+package com.behavioralpattern.strategypattern;
 
 public interface Strategy {
     public void strategyMethod();

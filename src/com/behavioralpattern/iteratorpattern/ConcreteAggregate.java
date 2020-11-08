@@ -17,6 +17,6 @@ public class ConcreteAggregate implements Aggregate {
 
     @Override
     public Interator getInterator() {
-        return null;
+        return new ConcreteInterator(objectList);
     }
 }

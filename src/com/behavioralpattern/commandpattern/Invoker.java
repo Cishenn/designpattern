@@ -1,4 +1,4 @@
-package com.designpatterndemo.commandpattern;
+package com.behavioralpattern.commandpattern;
 
 public class Invoker {
     private Command command;
@@ -8,6 +8,7 @@ public class Invoker {
     }
 
     public void call(){
+        System.out.println("Invoker::call()");
         command.execute();
     }
 }

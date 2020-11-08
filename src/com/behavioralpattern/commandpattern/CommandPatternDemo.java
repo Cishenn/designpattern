@@ -1,4 +1,4 @@
-package com.designpatterndemo.commandpattern;
+package com.behavioralpattern.commandpattern;
 
 public class CommandPatternDemo {
     public static void main(String[] args){

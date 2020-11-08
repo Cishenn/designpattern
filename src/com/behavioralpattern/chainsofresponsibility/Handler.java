@@ -1,4 +1,4 @@
-package com.designpatterndemo.chainsofresponsibility;
+package com.behavioralpattern.chainsofresponsibility;
 
 public abstract class Handler {
     protected Handler next;

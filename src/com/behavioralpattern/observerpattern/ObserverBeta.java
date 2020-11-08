@@ -1,4 +1,4 @@
-package com.designpatterndemo.observerpattern;
+package com.behavioralpattern.observerpattern;
 
 public class ObserverBeta implements Observer {
     @Override

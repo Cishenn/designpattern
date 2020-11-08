@@ -1,4 +1,4 @@
-package com.designpatterndemo.commandpattern;
+package com.behavioralpattern.commandpattern;
 
 public class ConcreteCommand implements Command {
     Receiver receiver;
@@ -7,7 +7,7 @@ public class ConcreteCommand implements Command {
     }
 
     public void execute() {
-        receiver.action();
         System.out.println("ConcreteCommand::execute()");
+        receiver.action();
     }
 }

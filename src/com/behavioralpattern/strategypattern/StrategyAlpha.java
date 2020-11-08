@@ -1,4 +1,4 @@
-package com.designpatterndemo.strategypattern;
+package com.behavioralpattern.strategypattern;
 
 public class StrategyAlpha implements Strategy {
     @Override

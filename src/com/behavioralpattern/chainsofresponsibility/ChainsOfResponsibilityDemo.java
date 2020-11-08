@@ -1,4 +1,4 @@
-package com.designpatterndemo.chainsofresponsibility;
+package com.behavioralpattern.chainsofresponsibility;
 
 public class ChainsOfResponsibilityDemo {
     public static void main(String[] args){
