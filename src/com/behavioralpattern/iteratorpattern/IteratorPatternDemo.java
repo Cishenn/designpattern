@@ -7,7 +7,7 @@ public class IteratorPatternDemo {
         aggregate.add("Peking University");
         aggregate.add("Zhejiang University");
 
-        Iterator iterator =aggregate.getInterator();
+        Iterator iterator =aggregate.getIterator();
         System.out.print("Priority of Graduate University:  ");
         while(iterator.hasNext()){
             Object obj= iterator.next();
